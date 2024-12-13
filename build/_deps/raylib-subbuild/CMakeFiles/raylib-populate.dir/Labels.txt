@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+C:/Users/Lucas/Documents/JUEGO/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+C:/Users/Lucas/Documents/JUEGO/build/_deps/raylib-subbuild/CMakeFiles/8048d316a31238b87cc151530a83e57c/raylib-populate.rule
+C:/Users/Lucas/Documents/JUEGO/build/_deps/raylib-subbuild/CMakeFiles/f4320404000d463835303dcf1f197fe1/raylib-populate-complete.rule
+C:/Users/Lucas/Documents/JUEGO/build/_deps/raylib-subbuild/CMakeFiles/12d9a678886d64af7a72e034bf06d7fd/raylib-populate-build.rule
+C:/Users/Lucas/Documents/JUEGO/build/_deps/raylib-subbuild/CMakeFiles/12d9a678886d64af7a72e034bf06d7fd/raylib-populate-configure.rule
+C:/Users/Lucas/Documents/JUEGO/build/_deps/raylib-subbuild/CMakeFiles/12d9a678886d64af7a72e034bf06d7fd/raylib-populate-download.rule
+C:/Users/Lucas/Documents/JUEGO/build/_deps/raylib-subbuild/CMakeFiles/12d9a678886d64af7a72e034bf06d7fd/raylib-populate-install.rule
+C:/Users/Lucas/Documents/JUEGO/build/_deps/raylib-subbuild/CMakeFiles/12d9a678886d64af7a72e034bf06d7fd/raylib-populate-mkdir.rule
+C:/Users/Lucas/Documents/JUEGO/build/_deps/raylib-subbuild/CMakeFiles/12d9a678886d64af7a72e034bf06d7fd/raylib-populate-patch.rule
+C:/Users/Lucas/Documents/JUEGO/build/_deps/raylib-subbuild/CMakeFiles/12d9a678886d64af7a72e034bf06d7fd/raylib-populate-test.rule
+C:/Users/Lucas/Documents/JUEGO/build/_deps/raylib-subbuild/CMakeFiles/12d9a678886d64af7a72e034bf06d7fd/raylib-populate-update.rule
